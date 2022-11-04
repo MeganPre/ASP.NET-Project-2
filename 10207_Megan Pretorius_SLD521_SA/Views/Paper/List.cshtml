@@ -1,0 +1,83 @@
+﻿@model IEnumerable<_10207_Megan_Pretorius_SLD521_SA.Models.Data.Paper>
+
+@{
+    ViewBag.Title = "List";
+}
+
+<style>
+    
+</style>
+
+<h2>List</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>ID</th>
+        <th>Title</th>
+        <th>Submisstion Date</th>
+        <th>Topic</th>
+        <th></th>
+        @*<th>
+            @Html.DisplayNameFor(model => model.PaperId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PaperTitle)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PaperAbstract)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PaperAuthor)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UserEmail)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PaperDateSubmitted)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TopicId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TopicName)
+        </th>
+        <th></th>*@
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayNameFor(model => model.PaperId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PaperTitle)
+        </td>
+        @*<td>
+            @Html.DisplayFor(modelItem => item.PaperAbstract)
+        </td>*@
+        @*<td>
+            @Html.DisplayFor(modelItem => item.PaperAuthor)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.UserEmail)
+        </td>*@
+        <td>
+            @Html.DisplayFor(modelItem => item.PaperDateSubmitted)
+        </td>
+        @*<td>
+            @Html.DisplayFor(modelItem => item.TopicId)
+        </td>*@
+        <td>
+            @Html.DisplayFor(modelItem => item.TopicName)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id = item.PaperId }) |
+            @*@Html.ActionLink("Details", "Details", new { id=item.PaperId }) |*@
+            @Html.ActionLink("Delete", "Delete", new { id=item.PaperId })
+        </td>
+    </tr>
+}
+</table>

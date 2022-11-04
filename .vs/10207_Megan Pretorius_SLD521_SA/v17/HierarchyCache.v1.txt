@@ -1,0 +1,296 @@
+﻿++Solution '10207_Megan Pretorius_SLD521_SA' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:10207_Megan Pretorius_SLD521_SA.sln
+++10207_Megan Pretorius_SLD521_SA
+i:{00000000-0000-0000-0000-000000000000}:10207_Megan Pretorius_SLD521_SA
+++Properties
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\properties\
+++References
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++Antlr3.Runtime
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++EntityFramework
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++EntityFramework.SqlServer
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++Microsoft.AspNet.Identity.Core
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++Microsoft.AspNet.Identity.EntityFramework
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++Microsoft.AspNet.Identity.Owin
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++Microsoft.CSharp
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++Microsoft.Owin
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++Microsoft.Owin.Host.SystemWeb
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++Microsoft.Owin.Security
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++Microsoft.Owin.Security.Cookies
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++Microsoft.Owin.Security.Google
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++Microsoft.Owin.Security.MicrosoftAccount
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++Microsoft.Owin.Security.OAuth
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++Microsoft.Owin.Security.Twitter
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++Microsoft.Web.Infrastructure
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++Newtonsoft.Json
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++Owin
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++System
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++System.ComponentModel.DataAnnotations
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++System.Configuration
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++System.Core
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++System.Data
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++System.Data.DataSetExtensions
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++System.Drawing
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++System.EnterpriseServices
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++System.Net.Http
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++System.Net.Http.WebRequest
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++System.Web
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++System.Web.Abstractions
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++System.Web.ApplicationServices
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++System.Web.DynamicData
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++System.Web.Entity
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++System.Web.Extensions
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++System.Web.Helpers
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++System.Web.Mvc
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++System.Web.Optimization
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++System.Web.Razor
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++System.Web.Routing
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++System.Web.Services
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++System.Web.WebPages
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++System.Web.WebPages.Deployment
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++System.Web.WebPages.Razor
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++System.Xml
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++System.Xml.Linq
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++WebGrease
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:
+++App_Data
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\app_data\
+++App_Start
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\app_start\
+++Content
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\content\
+++Controllers
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\controllers\
+++AccountController.cs
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\controllers\accountcontroller.cs
+++HomeController.cs
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\controllers\homecontroller.cs
+++fonts
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\fonts\
+++glyphicons-halflings-regular.eot
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\fonts\glyphicons-halflings-regular.woff
+++glyphicons-halflings-regular.woff2
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\fonts\glyphicons-halflings-regular.woff2
+++Migrations
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\migrations\
+++Configuration.cs
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\migrations\configuration.cs
+++Models
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\models\
+++Data
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\models\data\
+++DataDbContext.cs
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\models\data\datadbcontext.cs
+++Paper.cs
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\models\data\paper.cs
+++PaperDbContext.cs
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\models\data\paperdbcontext.cs
+++Topic.cs
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\models\data\topic.cs
+++AccountViewModels.cs
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\models\accountviewmodels.cs
+++IdentityModels.cs
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\models\identitymodels.cs
+++Scripts
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\scripts\
+++bootstrap.js
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\scripts\bootstrap.js
+++bootstrap.min.js
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\scripts\bootstrap.min.js
+++jquery-3.4.1.intellisense.js
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\scripts\jquery-3.4.1.intellisense.js
+++jquery-3.4.1.js
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\scripts\jquery-3.4.1.js
+++jquery-3.4.1.min.js
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\scripts\jquery-3.4.1.min.js
+++jquery-3.4.1.min.map
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\scripts\jquery-3.4.1.min.map
+++jquery-3.4.1.slim.js
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\scripts\jquery-3.4.1.slim.js
+++jquery-3.4.1.slim.min.js
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\scripts\jquery-3.4.1.slim.min.js
+++jquery-3.4.1.slim.min.map
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\scripts\jquery-3.4.1.slim.min.map
+++jquery.validate-vsdoc.js
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\scripts\jquery.validate-vsdoc.js
+++jquery.validate.js
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\scripts\jquery.validate.js
+++jquery.validate.min.js
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\scripts\jquery.validate.min.js
+++jquery.validate.unobtrusive.js
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\scripts\jquery.validate.unobtrusive.js
+++jquery.validate.unobtrusive.min.js
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\scripts\jquery.validate.unobtrusive.min.js
+++modernizr-2.8.3.js
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\scripts\modernizr-2.8.3.js
+++Views
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\views\
+++Account
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\views\account\
+++_ExternalLoginsListPartial.cshtml
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\views\account\_externalloginslistpartial.cshtml
+++ConfirmEmail.cshtml
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\views\account\confirmemail.cshtml
+++ExternalLoginConfirmation.cshtml
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\views\account\externalloginconfirmation.cshtml
+++ExternalLoginFailure.cshtml
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\views\account\externalloginfailure.cshtml
+++ForgotPassword.cshtml
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\views\account\forgotpassword.cshtml
+++ForgotPasswordConfirmation.cshtml
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\views\account\forgotpasswordconfirmation.cshtml
+++Login.cshtml
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\views\account\login.cshtml
+++Register.cshtml
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\views\account\register.cshtml
+++ResetPassword.cshtml
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\views\account\resetpassword.cshtml
+++ResetPasswordConfirmation.cshtml
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\views\account\resetpasswordconfirmation.cshtml
+++SendCode.cshtml
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\views\account\sendcode.cshtml
+++VerifyCode.cshtml
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\views\account\verifycode.cshtml
+++Home
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\views\home\
+++About.cshtml
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\views\home\about.cshtml
+++Contact.cshtml
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\views\home\contact.cshtml
+++Index.cshtml
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\views\home\index.cshtml
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\views\manage\index.cshtml
+++Manage
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\views\manage\
+++AddPhoneNumber.cshtml
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\views\manage\addphonenumber.cshtml
+++ChangePassword.cshtml
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\views\manage\changepassword.cshtml
+++ManageLogins.cshtml
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\views\manage\managelogins.cshtml
+++SetPassword.cshtml
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\views\manage\setpassword.cshtml
+++VerifyPhoneNumber.cshtml
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\views\manage\verifyphonenumber.cshtml
+++Shared
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\views\shared\
+++_Layout.cshtml
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\views\shared\_layout.cshtml
+++_LoginPartial.cshtml
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\views\shared\_loginpartial.cshtml
+++Error.cshtml
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\views\shared\error.cshtml
+++Lockout.cshtml
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\views\shared\lockout.cshtml
+++_ViewStart.cshtml
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\views\_viewstart.cshtml
+++Web.config
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\views\web.config
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\web.config
+++favicon.ico
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\favicon.ico
+++Global.asax
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\global.asax
+++packages.config
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\packages.config
+++Startup.cs
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\startup.cs
+++AssemblyInfo.cs
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\properties\assemblyinfo.cs
+++BundleConfig.cs
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\app_start\bundleconfig.cs
+++FilterConfig.cs
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\app_start\filterconfig.cs
+++IdentityConfig.cs
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\app_start\identityconfig.cs
+++RouteConfig.cs
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\app_start\routeconfig.cs
+++Startup.Auth.cs
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\app_start\startup.auth.cs
+++bootstrap-theme.css
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\content\bootstrap-theme.css
+++bootstrap-theme.css.map
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\content\bootstrap-theme.css.map
+++bootstrap-theme.min.css
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\content\bootstrap-theme.min.css
+++bootstrap-theme.min.css.map
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\content\bootstrap-theme.min.css.map
+++bootstrap.css
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\content\bootstrap.css
+++bootstrap.css.map
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\content\bootstrap.css.map
+++bootstrap.min.css
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\content\bootstrap.min.css
+++bootstrap.min.css.map
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\content\bootstrap.min.css.map
+++Site.css
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\content\site.css
+++Global.asax.cs
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\global.asax.cs
+++Web.Debug.config
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\web.debug.config
+++Web.Release.config
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\web.release.config
+++News.cshtml
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\views\home\news.cshtml
+++Paper
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\views\paper\
+++PaperController.cs
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\controllers\papercontroller.cs
+++List.cshtml
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\views\paper\list.cshtml
+++Create.cshtml
+i:{37959d0e-ec76-4d83-a187-8f84ed0edada}:c:\users\megan\source\repos\10207_megan pretorius_sld521_sa\10207_megan pretorius_sld521_sa\views\paper\create.cshtml

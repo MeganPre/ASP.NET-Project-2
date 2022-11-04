@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "37959d0e-ec76-4d83-a187-8f84ed0edada": {
+      "ProjectGuid": "37959d0e-ec76-4d83-a187-8f84ed0edada",
+      "DisplayName": "10207_Megan Pretorius_SLD521_SA",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
